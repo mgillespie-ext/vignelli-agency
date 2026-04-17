@@ -1,7 +1,7 @@
 cd vignelli-agency && cat > README.md << 'EOF'
 # Vignelli Agency Design System
 
-A design system for Ext. Marketing, grounded in the principles of Massimo Vignelli's Canon.
+A design system grounded in the principles of Massimo Vignelli's Canon.
 
 ## Philosophy
 
